@@ -1,15 +1,64 @@
+.Asus {
+    text-align: center;
+}
+
 .Asus img {
     width: 660px;
+    display: block;
+    margin: 0 auto;
+
+}
+.Dell {
+    text-align: center;
 
 }
 .Dell img {
-    width: 660px;
+    width: 680px;
+    display: block;
+    margin: 0 auto;
+
+}
+.Acer {
+    text-align: center;
 
 }
 .Acer img {
     width: 660px;
+    display: block;
+    margin: 0 auto;
 
 }
 nav ul li img {
     width: 125px;
+
+}
+h2 {
+    text-align: center;
+    
+
+}
+.paragrafo-container p {
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 0px;
+    line-height: 32px;
+    display: inline-block;
+    font-size: 20px;
+
+}
+.paragrafo-container {
+    text-align: center;
+
+}
+.textbox p {
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    font-size: 20px;
+
+}
+.textbox {
+    text-align: center;
 }
