@@ -32,6 +32,9 @@ nav ul li img {
     width: 125px;
 
 }
+nav ul li a {
+    margin-right: 60px;
+}
 h2 {
     text-align: center;
     
